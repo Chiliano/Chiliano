@@ -1,7 +1,7 @@
 # 📚 Chiliano Arcarese
 
-I'm still a student curretly study at ITIS Guglielmo Marconi in Verona. Here I commit my school projects in order to became the best develeper that i can be.
-I love Python 
+I'm still a student curretly study at ITIS Guglielmo Marconi in Verona.
+Here I commit my school projects in order to became the best develeper that i can be.
 
 
 ---
