@@ -1,8 +1,7 @@
 # 📚 Chiliano Arcarese
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 I'm still a student curretly study at ITIS Guglielmo Marconi in Verona. Here I commit my school projects in order to became the best develeper that i can be.
-I love python <i class="devicon-python-plain"></i>
+I love Python 
 
 
 ---
@@ -17,6 +16,7 @@ I love python <i class="devicon-python-plain"></i>
 <img align="left" alt="VSCode" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Windows" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Debian" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
