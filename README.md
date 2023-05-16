@@ -33,9 +33,9 @@ Here I commit my school projects in order to became the best develeper that i ca
 
 #
 
-#### My school
+### My school
 
-![Chiliano's GitHub stats](https://drive.google.com/file/d/1Z76aIMMREaniN_lZbGYB6pRgpR5Y0KXs/view?usp=sharing)
+![Chiliano's GitHub stats](https://drive.google.com/file/d/1Z76aIMMREaniN_lZbGYB6pRgpR5Y0KXs/view)
 
 
 
