@@ -29,6 +29,13 @@ Here I commit my school projects in order to became the best develeper that i ca
 
 ### 📊 Stats
 
-![Chiliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=4CI-Arcarese-Chiliano-2022-2023&show_icons=true&theme=gruvbox)
+![ITIS Guglielmo Marconi](https://github-readme-stats.vercel.app/api?username=4CI-Arcarese-Chiliano-2022-2023&show_icons=true&theme=gruvbox)
 
 #
+
+#### My school
+
+![Chiliano's GitHub stats](https://drive.google.com/file/d/1Z76aIMMREaniN_lZbGYB6pRgpR5Y0KXs/view?usp=sharing)
+
+
+
