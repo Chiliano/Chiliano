@@ -1,7 +1,8 @@
 # 📚 Chiliano Arcarese
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 I'm still a student curretly study at ITIS Guglielmo Marconi in Verona. Here I commit my school projects in order to became the best develeper that i can be.
-I love python <i class="devicon-python-plain colored"></i>
+I love python <i class="devicon-python-plain"></i>
 
 
 ---
