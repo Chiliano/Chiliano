@@ -2,7 +2,7 @@
 
 I'm still a student currently studying at **[ITIS Guglielmo Marconi](https://www.marconiverona.edu.it)** in Verona.
 
-Here I commit my school projects in order to became the best develeper that i can be.
+Here I commit my school projects in order to become the best developer I can be.
 
 
 ---
