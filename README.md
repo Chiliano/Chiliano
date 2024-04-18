@@ -27,7 +27,7 @@ Here I commit my school projects in order to become the best developer I can be.
 
 ### 📊 Stats
 
-![ITIS Guglielmo Marconi](https://github-readme-stats.vercel.app/api?username=4CI-Arcarese-Chiliano-2022-2023&show_icons=true&theme=gruvbox)
+![ITIS Guglielmo Marconi](https://github-readme-stats.vercel.app/api?username=Chiliano&show_icons=true&theme=gruvbox)
 
 #
 
